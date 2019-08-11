@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<GatedCommunityHouses>
+
+<Houses>
+
+<House category="INDIVIDUAL HOUSE">
+  <houseNo>I01</houseNo>
+  <owner>Raja</owner>
+  <ownerPhoneNo>9765211234</ownerPhoneNo>
+  <ownerMailId>raja@gmail.com</ownerMailId>
+  <rented>No</rented>
+  <memberCount>3</memberCount>
+  <headMember>Raja</headMember>
+  <member>Rani</member>
+  <member>Prince</member>
+  <memberPhoneNo>9765211234</memberPhoneNo>
+  <memberMailId>raja@gmail.com</memberMailId>
+</House>
+
+<House category="FLAT">
+  <houseNo>FA01</houseNo>
+  <owner>Priya</owner>
+  <ownerPhoneNo>9765211235</ownerPhoneNo>
+  <ownerMailId>priya@gmail.com</ownerMailId>
+  <rented>Yes</rented>
+  <memberCount>4</memberCount>
+  <headMember>Raman</headMember>
+  <member>Keerthi</member>
+  <member>Ajith</member>
+  <member>Divya</member>
+  <memberPhoneNo>9610146252</memberPhoneNo>
+  <memberMailId>raman@gmail.com</memberMailId>
+</House>
+
+<House category="INDIVIDUAL HOUSE">
+  <houseNo>I02</houseNo>
+  <owner>George</owner>
+  <ownerPhoneNo>9765211236</ownerPhoneNo>
+  <ownerMailId>george@gmail.com</ownerMailId>
+  <rented>Yes</rented>
+  <memberCount>3</memberCount>
+  <headMember>Klaraa</headMember>
+  <member>Anitha</member>
+  <member>Vaani</member>
+  <memberPhoneNo>9876543210</memberPhoneNo>
+  <memberMailId>klaraa@gmail.com</memberMailId>
+</House>
+
+<House category="FLAT">
+  <houseNo>FA02</houseNo>
+  <owner>Laurence</owner>
+  <ownerPhoneNo>9765211237</ownerPhoneNo>
+  <ownerMailId>laurence@gmail.com</ownerMailId>
+  <rented>Yes</rented>
+  <memberCount>3</memberCount>
+  <headMember>Karthi</headMember>
+  <member>Helenika</member>
+  <member>Kanishka</member>
+  <memberPhoneNo>8765432109</memberPhoneNo>
+  <memberMailId>karthi@gmail.com</memberMailId>
+</House>
+
+<House category="INDIVIDUAL HOUSE">
+  <houseNo>I03</houseNo>
+  <owner>Girija</owner>
+  <ownerPhoneNo>9765211238</ownerPhoneNo>
+  <ownerMailId>priya@gmail.com</ownerMailId>
+  <rented>Yes</rented>
+  <memberCount>2</memberCount>
+  <headMember>Mike</headMember>
+  <member>Lisa</member>
+  <memberPhoneNo>7654321098</memberPhoneNo>
+  <memberMailId>mikelisa@gmail.com</memberMailId>
+</House>
+
+<House category="FLAT">
+  <houseNo>FA03</houseNo>
+  <owner>Hasar</owner>
+  <ownerPhoneNo>9765211239</ownerPhoneNo>
+  <ownerMailId>hasar@gmail.com</ownerMailId>
+  <rented>Yes</rented>
+  <memberCount>2</memberCount>
+  <headMember>Irfan</headMember>
+  <member>Mahima</member>
+  <memberPhoneNo>8765432190</memberPhoneNo>
+  <memberMailId>irfan@gmail.com</memberMailId>
+</House>
+
+<House category="INDIVIDUAL HOUSE">
+  <houseNo>I04</houseNo>
+  <owner>Prakash</owner>
+  <ownerPhoneNo>9765211230</ownerPhoneNo>
+  <ownerMailId>prakash@gmail.com</ownerMailId>
+  <rented>No</rented>
+  <memberCount>3</memberCount>
+  <headMember>Prakash</headMember>
+  <member>Karthiga</member>
+  <member>Harish</member>
+  <memberPhoneNo>987654311</memberPhoneNo>
+  <memberMailId>prakash@gmail.com</memberMailId>
+</House>
+
+<House category="FLAT">
+  <houseNo>FA04</houseNo>
+  <owner>Vicky</owner>
+  <ownerPhoneNo>9765211231</ownerPhoneNo>
+  <ownerMailId>vicky@gmail.com</ownerMailId>
+  <rented>No</rented>
+  <memberCount>3</memberCount>
+  <headMember>Vicky</headMember>
+  <member>Selena</member>
+  <memberPhoneNo>8765432167</memberPhoneNo>
+  <memberMailId>selena@gmail.com</memberMailId> 
+</House>
+
+</Houses>
+<PartyHall>
+<TodayStatus>Free</TodayStatus>
+
+<bookedFor>
+<dateOfBooking>17-08-2019</dateOfBooking>
+<UpcomingeventDate>17-09-2019</UpcomingeventDate>
+<bookedBy>Vicky</bookedBy>
+<houseNo>FA04</houseNo>
+</bookedFor>
+
+</PartyHall>
+</GatedCommunityHouses>
